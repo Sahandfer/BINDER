@@ -2,8 +2,10 @@
 <p align="center"> 
     <img width="200" src="./logo.png" alt="logo">
 </p>
+
 ## Description
-A repository for my learning materials and stuff (i.e. tries, fails, 随便s, etc.).
+
+A repository for my learning materials and stuff (i.e. tries, fails, 随便s, etc.). Here, I will be providing all the topics that I've recently learned or planned on learning.
 
 ## List of Content
 
