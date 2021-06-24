@@ -26,4 +26,10 @@ A repository for my learning materials and stuff (i.e. tries, fails, 随便s, et
 - ### Natural Language Processing
 
   - Word Vectors
+  
+- ### Chinese (中文)
+
+  - [数学](https://github.com/Sahandfer/BINDER/blob/master/Chinese/%E6%95%B0%E5%AD%A6.md)
+  - [计算机科学](https://github.com/Sahandfer/BINDER/blob/master/Chinese/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6.md)
+  - [人工智能](https://github.com/Sahandfer/BINDER/blob/master/Chinese/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD.md)
 
