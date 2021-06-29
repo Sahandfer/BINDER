@@ -20,7 +20,7 @@ A repository for my learning materials and stuff (i.e. tries, fails, 随便s, et
 
 - ### Deep Learning
 
-  - Neural Networks
+  - [Neural Networks](https://github.com/Sahandfer/BINDER/tree/master/NN/)
   - [Reinforcement Learning](https://github.com/Sahandfer/BINDER/tree/master/RL/)
   
 - ### Natural Language Processing
